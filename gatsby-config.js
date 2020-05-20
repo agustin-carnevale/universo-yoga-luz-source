@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Universo Yoga Luz`,
-    description: `Sitio dedicado al espacio y la actividades del centro Universo Yoga Luz.`,
+    description: `Sitio dedicado al espacio y las actividades del centro Universo Yoga Luz.`,
     author: `Agustin-Carnevale`,
   },
   plugins: [
